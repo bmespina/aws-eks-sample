@@ -8,4 +8,4 @@
 > npm install express --save
 
 # create Dockerfile
-nano Dockerfile
+> nano Dockerfile
